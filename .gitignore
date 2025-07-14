@@ -1,0 +1,20 @@
+# Ignore system and config files
+__pycache__/
+*.py[cod]
+*.csv
+*.log
+*.tmp
+*.swp
+*.bak
+.DS_Store
+.env
+.vscode/
+AppData/
+.ipynb_checkpoints/
+
+# Ignore Windows executables
+*.exe
+*.dll
+*.msi
+*.db
+Thumbs.db
